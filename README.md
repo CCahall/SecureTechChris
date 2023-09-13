@@ -4,7 +4,7 @@
 Hey there! I'm a cybersecurity student fueled by a burning passion to protect the digital realm. With a thirst for knowledge and an insatiable curiosity, I'm ready to take on any cyber challenge that comes my way. Join me on this thrilling journey as we defend and conquer!
 
 ## Projects
-### Project 1: Network Penetration Prowess
+### Project 1: Password Safe
 - Description: Unleashed my hacking skills in a network penetration testing extravaganza. I hunted down vulnerabilities, leaving no stone unturned, and provided top-notch recommendations for fortification.
 - Technologies used: Kali Linux, Wireshark, Metasploit, Nmap, Nessus
 - Repository: [GitHub Link](https://github.com/your-username/project-1)
